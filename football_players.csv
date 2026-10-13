@@ -1,0 +1,209 @@
+player_id,player_name,season,team,position,age,nationality,appearances,minutes_played,goals,assists,shots,shots_on_target,pass_accuracy,dribbles,tackles,yellow_cards,red_cards,clean_sheets,rating
+1,Sam Nunes,2022-23,Eastbridge Athletic,Defender,22,Dutch,6,456,1,1,5,2,89.6,17,62,4,0,2,6.22
+1,Sam Nunes,2023-24,Eastbridge Athletic,Defender,22,Dutch,31,2449,0,3,16,1,87.5,9,35,4,1,9,6.94
+2,Fede Torres,2022-23,Southvale City,Defender,29,Italian,35,2765,4,0,4,4,81.2,2,76,7,0,2,7.18
+2,Fede Torres,2023-24,Southvale City,Defender,29,Italian,30,2430,2,5,12,6,87.9,17,44,6,0,2,6.47
+3,Iker Quinn,2022-23,Thornfield United,Defender,36,Argentine,31,2697,4,1,18,0,89.8,10,61,2,0,5,7.25
+3,Iker Quinn,2023-24,Thornfield United,Defender,36,Argentine,9,594,2,0,14,7,84.4,14,80,5,0,0,6.5
+4,Max Vieira,2022-23,Eastbridge Athletic,Midfielder,31,English,32,1920,7,10,26,8,75.2,22,24,4,0,0,6.98
+4,Max Vieira,2023-24,Eastbridge Athletic,Midfielder,31,English,6,468,11,5,37,7,76.7,30,52,6,0,0,6.42
+5,Will Bento,2022-23,Northern Dynamo,Goalkeeper,19,Italian,11,858,0,0,0,0,77.4,2,7,0,0,8,5.83
+5,Will Bento,2023-24,Northern Dynamo,Goalkeeper,19,Italian,7,455,0,0,0,0,69.4,0,5,2,0,14,6.73
+6,Hugo Xu,2022-23,Crestwood Rangers,Defender,24,Italian,24,1440,3,4,12,2,69.4,12,40,1,0,6,6.23
+6,Hugo Xu,2023-24,Crestwood Rangers,Defender,24,Italian,15,1365,4,0,3,1,76.8,14,52,3,0,0,5.59
+7,Olly Zelaya,2022-23,Northern Dynamo,Forward,36,Portuguese,10,820,13,1,31,30,81.8,23,21,2,0,0,6.48
+7,Olly Zelaya,2023-24,Northern Dynamo,Forward,36,Portuguese,30,2550,12,7,47,30,75.1,23,16,5,0,0,7.11
+8,Aaron Yates,2022-23,Crestwood Rangers,Goalkeeper,32,French,27,2295,0,0,0,0,77.9,2,6,2,0,13,7.79
+8,Aaron Yates,2023-24,Crestwood Rangers,Goalkeeper,32,French,22,2046,0,0,0,0,55.1,2,2,1,0,4,5.0
+9,Sam Iglesias,2022-23,Red City United,Defender,29,Portuguese,14,1008,3,5,10,2,86.4,11,55,6,0,4,6.54
+9,Sam Iglesias,2023-24,Red City United,Defender,29,Portuguese,10,890,1,1,3,3,73.1,5,63,2,0,9,6.88
+10,Lars Iglesias,2022-23,Red City United,Defender,34,English,12,984,1,3,10,7,86.3,7,75,4,0,7,7.45
+10,Lars Iglesias,2023-24,Red City United,Defender,34,English,27,2106,0,6,10,9,70.6,8,63,7,1,3,6.7
+11,Yusuf Iglesias,2022-23,Red City United,Defender,26,English,30,2730,4,4,9,6,69.0,6,58,3,0,4,6.69
+11,Yusuf Iglesias,2023-24,Red City United,Defender,26,English,16,1424,3,1,18,6,76.4,12,33,4,0,3,5.49
+12,Cole Torres,2022-23,Southvale City,Defender,35,Brazilian,30,2640,2,5,2,2,68.8,14,46,7,0,3,6.18
+12,Cole Torres,2023-24,Southvale City,Defender,35,Brazilian,17,1496,1,4,12,7,89.1,11,64,3,0,7,7.37
+13,Ravi Oliveira,2022-23,Northern Dynamo,Midfielder,33,Portuguese,9,810,7,6,11,9,92.1,35,46,3,0,0,6.83
+13,Ravi Oliveira,2023-24,Northern Dynamo,Midfielder,33,Portuguese,5,375,5,14,37,9,84.0,30,42,2,0,0,7.31
+14,Ravi Couto,2022-23,Crestwood Rangers,Midfielder,35,German,16,1168,12,9,14,5,91.6,27,31,1,0,0,7.21
+14,Ravi Couto,2023-24,Crestwood Rangers,Midfielder,35,German,27,1728,9,12,21,11,84.1,46,45,6,0,0,8.37
+15,Diego Moran,2022-23,Eastbridge Athletic,Midfielder,21,French,35,2975,4,11,36,10,82.1,41,22,6,0,0,7.67
+15,Diego Moran,2023-24,Eastbridge Athletic,Midfielder,21,French,15,1305,11,4,30,19,78.6,45,54,2,0,0,7.28
+16,Glen Torres,2022-23,Albion FC,Midfielder,37,English,14,854,3,5,17,4,84.7,26,39,6,0,0,5.99
+17,Pedro Hale,2022-23,Eastbridge Athletic,Defender,25,Brazilian,22,1958,1,2,9,0,86.2,11,42,1,1,1,5.77
+18,Tomas Yates,2023-24,Albion FC,Goalkeeper,28,Portuguese,19,1235,0,0,0,0,79.4,0,0,1,0,9,6.42
+19,Diego Ricci,2023-24,Westgate Rovers,Forward,37,French,8,664,21,8,49,39,65.4,18,10,2,0,0,8.24
+20,Ethan Faria,2022-23,Eastbridge Athletic,Forward,17,Portuguese,5,390,6,5,45,38,73.9,49,12,2,0,0,6.66
+20,Ethan Faria,2023-24,Eastbridge Athletic,Forward,17,Portuguese,28,2352,7,11,67,10,65.6,31,23,4,0,0,6.16
+21,Blake Xu,2022-23,Thornfield United,Defender,17,Italian,29,2175,2,0,11,3,85.6,12,70,2,1,0,6.68
+21,Blake Xu,2023-24,Thornfield United,Defender,17,Italian,37,2886,3,6,8,5,81.9,8,68,3,0,2,7.24
+22,Glen Hale,2022-23,Thornfield United,Forward,31,Brazilian,10,800,12,5,40,11,85.3,48,14,5,0,0,6.64
+22,Glen Hale,2023-24,Thornfield United,Forward,31,Brazilian,35,2485,16,4,47,33,67.7,38,5,4,0,0,7.78
+23,Luca Sousa,2023-24,Ironport FC,Midfielder,18,French,7,455,4,6,15,8,74.9,44,23,3,0,0,6.14
+24,Diego Vos,2022-23,Northern Dynamo,Midfielder,38,Nigerian,18,1224,5,12,17,17,90.9,20,16,4,1,0,7.17
+25,Xavi Xu,2022-23,Albion FC,Midfielder,32,Argentine,20,1840,6,3,27,15,89.4,30,29,5,0,0,6.42
+25,Xavi Xu,2023-24,Albion FC,Midfielder,32,Argentine,14,1176,3,9,12,9,78.7,35,17,2,0,0,6.47
+26,Javi Lainez,2022-23,Albion FC,Midfielder,24,Argentine,33,2376,2,4,31,7,92.0,13,50,4,0,0,6.35
+27,Ruben Shah,2022-23,Northern Dynamo,Forward,29,French,24,2208,5,6,75,32,79.9,46,29,0,0,0,6.74
+28,Luca Zimmermann,2022-23,Southvale City,Midfielder,37,Portuguese,14,952,4,7,21,5,89.3,43,18,4,0,0,6.61
+28,Luca Zimmermann,2023-24,Southvale City,Midfielder,37,Portuguese,16,1152,5,3,38,16,86.0,27,28,0,0,0,6.12
+29,Stefan Park,2022-23,Ironport FC,Forward,17,Brazilian,28,1764,14,6,45,22,85.4,15,17,3,0,0,6.87
+29,Stefan Park,2023-24,Ironport FC,Forward,17,Brazilian,29,1914,24,3,52,13,82.3,22,21,2,0,0,7.8
+30,Nico Vos,2022-23,Southvale City,Defender,32,Argentine,16,1232,3,5,4,4,72.8,19,44,5,0,8,6.61
+30,Nico Vos,2023-24,Southvale City,Defender,32,Argentine,8,480,4,2,4,1,79.4,5,58,6,0,3,6.05
+31,Aaron Ibarra,2022-23,Southvale City,Midfielder,23,Brazilian,34,3060,4,5,35,17,74.6,49,39,2,0,0,7.28
+31,Aaron Ibarra,2023-24,Southvale City,Midfielder,23,Brazilian,5,350,11,14,12,7,82.0,44,24,6,0,0,7.7
+32,Mario Ibarra,2022-23,Southvale City,Goalkeeper,21,Argentine,29,2668,0,0,0,0,67.3,1,4,1,0,9,6.76
+32,Mario Ibarra,2023-24,Southvale City,Goalkeeper,21,Argentine,32,2592,0,0,0,0,73.1,1,1,0,0,16,8.55
+33,Leo Gomez,2022-23,Northern Dynamo,Defender,38,Italian,9,657,4,1,19,0,81.1,3,58,0,0,9,6.87
+33,Leo Gomez,2023-24,Northern Dynamo,Defender,38,Italian,12,732,5,3,6,6,79.6,15,40,5,0,4,5.94
+34,Lars Herrera,2022-23,Southvale City,Defender,19,Portuguese,32,2784,5,4,13,1,73.7,14,61,5,0,1,6.55
+34,Lars Herrera,2023-24,Southvale City,Defender,19,Portuguese,35,3115,0,0,13,6,79.3,13,31,6,0,3,5.92
+35,Blake Diaz,2022-23,Thornfield United,Defender,28,Italian,13,819,1,4,7,2,78.8,8,76,0,0,1,6.49
+35,Blake Diaz,2023-24,Thornfield United,Defender,28,Italian,33,1980,4,6,3,3,89.9,3,43,5,0,1,6.34
+36,Olly Pinto,2022-23,Red City United,Defender,32,Argentine,18,1206,3,1,13,1,87.7,14,49,3,0,3,6.24
+37,Xavi Matos,2022-23,Westgate Rovers,Defender,35,Nigerian,26,2288,2,4,6,6,78.2,15,51,3,1,5,6.74
+37,Xavi Matos,2023-24,Westgate Rovers,Defender,35,Nigerian,15,930,3,0,13,1,81.7,18,40,3,0,6,6.16
+38,Eli Guerrero,2022-23,Albion FC,Midfielder,21,Nigerian,9,567,12,4,31,4,82.6,38,35,5,0,0,6.47
+39,Cesc Oliveira,2022-23,Albion FC,Forward,38,Italian,25,2025,7,9,40,22,79.7,59,7,3,0,0,7.14
+40,Gael Braga,2022-23,Westgate Rovers,Defender,30,Nigerian,27,2457,1,1,18,2,84.5,10,56,0,1,9,7.39
+40,Gael Braga,2023-24,Westgate Rovers,Defender,30,Nigerian,5,345,5,4,18,6,68.8,18,32,5,0,2,5.05
+41,Marc Ricci,2022-23,Northern Dynamo,Defender,21,Argentine,25,1725,3,3,11,3,87.7,9,46,7,0,2,6.24
+41,Marc Ricci,2023-24,Northern Dynamo,Defender,21,Argentine,30,2340,0,5,18,0,86.9,3,73,0,0,9,8.08
+42,Renato Faria,2022-23,Eastbridge Athletic,Forward,31,French,34,3128,10,11,54,38,82.6,37,12,4,0,0,7.99
+42,Renato Faria,2023-24,Eastbridge Athletic,Forward,31,French,28,2128,11,7,71,28,85.6,54,18,4,0,0,7.77
+43,Victor Vos,2022-23,Northern Dynamo,Defender,33,Italian,27,2511,1,1,16,4,78.1,14,57,3,0,5,6.79
+44,Stefan Blanc,2022-23,Albion FC,Midfielder,30,Spanish,24,2232,3,3,15,10,76.9,38,50,2,0,0,6.42
+44,Stefan Blanc,2023-24,Albion FC,Midfielder,30,Spanish,12,756,8,9,11,5,73.7,47,26,6,0,0,6.92
+45,Hector Hart,2023-24,Albion FC,Defender,36,Portuguese,5,460,5,5,13,8,76.6,4,58,6,0,2,5.97
+46,Nico Gomez,2022-23,Westgate Rovers,Goalkeeper,21,Nigerian,14,1120,0,0,0,0,75.5,1,4,0,0,18,8.11
+46,Nico Gomez,2023-24,Westgate Rovers,Goalkeeper,21,Nigerian,21,1365,0,0,0,0,73.0,0,7,1,0,18,8.46
+47,Rafael Wade,2022-23,Southvale City,Forward,28,Nigerian,34,2822,24,1,53,10,78.0,26,7,4,0,0,7.52
+47,Rafael Wade,2023-24,Southvale City,Forward,28,Nigerian,26,2418,22,7,60,32,76.7,26,20,3,0,0,8.64
+48,Max Da Silva,2022-23,Northern Dynamo,Midfielder,32,English,16,1248,10,7,32,16,88.3,30,41,4,0,0,7.23
+48,Max Da Silva,2023-24,Northern Dynamo,Midfielder,32,English,5,325,4,3,21,5,74.6,22,54,5,0,0,5.44
+49,Phil Webb,2022-23,Crestwood Rangers,Midfielder,32,German,24,2232,2,8,11,11,84.5,26,16,6,0,0,6.48
+49,Phil Webb,2023-24,Crestwood Rangers,Midfielder,32,German,32,2464,2,7,15,8,91.7,18,27,3,0,0,6.58
+50,Phil Klose,2022-23,Westgate Rovers,Midfielder,37,Italian,16,1152,1,5,26,5,90.4,10,46,6,0,0,5.76
+50,Phil Klose,2023-24,Westgate Rovers,Midfielder,37,Italian,32,2624,4,14,12,12,77.8,11,45,0,0,0,7.47
+51,Andre Xu,2022-23,Thornfield United,Defender,23,Dutch,19,1558,2,1,17,7,74.0,17,50,5,0,1,5.81
+52,Phil Kuhn,2022-23,Albion FC,Midfielder,20,Nigerian,19,1482,10,9,11,11,89.9,38,30,4,0,0,7.55
+52,Phil Kuhn,2023-24,Albion FC,Midfielder,20,Nigerian,10,700,9,13,32,12,72.0,42,46,6,0,0,7.72
+53,Emil Ibarra,2023-24,Westgate Rovers,Defender,17,Portuguese,25,2175,5,3,9,8,78.5,7,76,5,0,7,7.75
+54,Xavi Sousa,2022-23,Northern Dynamo,Defender,21,Spanish,13,1183,0,5,18,9,69.0,8,45,4,0,4,5.84
+54,Xavi Sousa,2023-24,Northern Dynamo,Defender,21,Spanish,13,858,1,2,6,6,86.7,11,66,4,0,0,6.23
+55,Ian Navarro,2022-23,Albion FC,Midfielder,26,Nigerian,24,1440,11,12,39,4,72.4,19,46,1,0,0,7.31
+56,Fede Vargas,2022-23,Eastbridge Athletic,Defender,38,Spanish,14,1232,2,0,17,6,68.8,10,49,1,0,2,5.56
+56,Fede Vargas,2023-24,Eastbridge Athletic,Defender,38,Spanish,30,2010,0,2,7,3,75.2,3,35,7,0,9,6.59
+57,Stefan Alves,2022-23,Westgate Rovers,Forward,21,Argentine,32,2784,15,5,70,28,78.2,29,17,4,0,0,7.47
+57,Stefan Alves,2023-24,Westgate Rovers,Forward,21,Argentine,11,891,23,5,66,28,76.2,55,24,0,0,0,8.97
+58,Kev Ibarra,2022-23,Ironport FC,Goalkeeper,20,Argentine,26,1690,0,0,0,0,68.4,2,8,0,0,7,6.24
+58,Kev Ibarra,2023-24,Ironport FC,Goalkeeper,20,Argentine,30,1890,0,0,0,0,66.9,1,1,1,0,16,8.31
+59,Ethan Hale,2023-24,Albion FC,Midfielder,18,German,18,1494,7,11,29,14,84.7,49,48,1,0,0,8.08
+60,Quinn Ibarra,2022-23,Northern Dynamo,Forward,36,French,32,2432,9,2,37,21,78.3,33,28,4,0,0,6.24
+61,Emil Kuhn,2023-24,Red City United,Defender,26,Dutch,29,1740,5,4,9,4,88.5,16,48,7,0,7,7.26
+62,Felix Vieira,2022-23,Crestwood Rangers,Defender,35,English,30,1860,0,3,19,0,84.2,6,34,2,0,3,5.94
+62,Felix Vieira,2023-24,Crestwood Rangers,Defender,35,English,15,1245,1,2,13,0,74.2,5,32,7,0,6,5.66
+63,Aaron Lopes,2022-23,Dawnfield Sporting,Defender,17,German,6,492,4,1,16,2,73.6,5,30,4,0,9,5.81
+63,Aaron Lopes,2023-24,Dawnfield Sporting,Defender,17,German,11,737,0,4,10,7,68.1,19,67,0,0,1,6.07
+64,Ivan Morin,2022-23,Southvale City,Midfielder,21,Brazilian,6,396,12,15,17,6,79.7,30,25,0,0,0,7.5
+64,Ivan Morin,2023-24,Southvale City,Midfielder,21,Brazilian,13,1092,10,15,31,7,80.1,37,24,3,0,0,7.77
+65,Sam Hale,2022-23,Dawnfield Sporting,Goalkeeper,29,English,29,2581,0,0,0,0,76.0,1,2,2,0,11,7.36
+65,Sam Hale,2023-24,Dawnfield Sporting,Goalkeeper,29,English,21,1470,0,0,0,0,60.1,0,2,1,0,7,5.7
+66,Theo Diaz,2022-23,Northern Dynamo,Forward,20,Italian,18,1674,23,4,77,27,74.4,40,21,1,0,0,8.51
+66,Theo Diaz,2023-24,Northern Dynamo,Forward,20,Italian,14,910,15,6,30,21,69.6,43,17,3,0,0,7.32
+67,Noah Zelaya,2023-24,Thornfield United,Defender,32,Portuguese,22,1364,0,4,14,1,83.3,5,44,7,1,6,6.47
+68,Eli Da Silva,2022-23,Thornfield United,Defender,32,Brazilian,31,2852,5,2,16,3,69.1,18,63,4,0,4,6.89
+68,Eli Da Silva,2023-24,Thornfield United,Defender,32,Brazilian,31,2697,5,2,11,1,79.7,13,64,1,0,4,7.08
+69,Nico Lainez,2022-23,Red City United,Midfielder,18,Brazilian,24,1920,7,11,21,17,83.9,20,29,4,0,0,7.33
+69,Nico Lainez,2023-24,Red City United,Midfielder,18,Brazilian,30,2220,7,11,35,10,76.0,43,31,2,0,0,7.75
+70,Kai Lopes,2023-24,Southvale City,Midfielder,33,German,33,1980,8,4,13,13,76.4,17,54,0,0,0,6.67
+71,Dani Matos,2022-23,Ironport FC,Midfielder,36,French,5,355,1,5,14,7,82.2,31,32,3,0,0,5.69
+71,Dani Matos,2023-24,Ironport FC,Midfielder,36,French,10,660,10,9,22,5,87.8,17,23,2,0,0,6.5
+72,Lars Alves,2022-23,Red City United,Midfielder,28,German,9,666,10,7,38,10,85.0,24,39,1,0,0,6.65
+73,Ivan Faria,2023-24,Dawnfield Sporting,Forward,34,Italian,20,1300,16,10,76,11,67.5,36,10,1,0,0,7.31
+74,Franco Moran,2023-24,Red City United,Forward,19,Nigerian,20,1860,14,11,42,19,66.4,54,21,4,0,0,7.95
+75,Glen Moran,2023-24,Dawnfield Sporting,Forward,17,Nigerian,35,2100,12,7,67,24,70.5,35,18,0,0,0,7.21
+76,Luca Zelaya,2022-23,Albion FC,Midfielder,17,French,37,2960,8,4,40,9,78.2,26,54,1,0,0,6.95
+76,Luca Zelaya,2023-24,Albion FC,Midfielder,17,French,18,1404,4,5,24,6,81.0,32,28,2,0,0,6.14
+77,Zane Pinto,2022-23,Thornfield United,Midfielder,35,Italian,16,1408,4,12,34,9,75.6,33,39,0,0,0,7.14
+78,Hector Iglesias,2022-23,Albion FC,Defender,27,French,21,1407,2,3,17,4,89.2,18,78,5,0,5,7.64
+78,Hector Iglesias,2023-24,Albion FC,Defender,27,French,28,2604,5,0,8,8,70.4,11,54,7,0,8,7.05
+79,Andre Koch,2022-23,Crestwood Rangers,Forward,21,Spanish,29,2001,13,11,41,14,66.0,52,21,2,0,0,7.68
+79,Andre Koch,2023-24,Crestwood Rangers,Forward,21,Spanish,17,1360,8,5,36,16,76.9,34,12,5,0,0,5.92
+80,Nico Zimmermann,2022-23,Southvale City,Midfielder,28,Nigerian,24,2016,4,8,32,14,73.6,28,36,1,0,0,6.74
+80,Nico Zimmermann,2023-24,Southvale City,Midfielder,28,Nigerian,28,2576,6,15,25,18,88.4,14,44,4,0,0,8.06
+81,Felix Lainez,2022-23,Ironport FC,Midfielder,19,Brazilian,29,2639,7,9,19,9,77.6,41,34,5,0,0,7.45
+81,Felix Lainez,2023-24,Ironport FC,Midfielder,19,Brazilian,33,3102,6,11,39,15,75.7,10,35,6,0,0,7.1
+82,Xavi Ferreira,2022-23,Dawnfield Sporting,Midfielder,17,Dutch,35,2975,1,3,39,8,86.5,32,46,2,0,0,6.55
+82,Xavi Ferreira,2023-24,Dawnfield Sporting,Midfielder,17,Dutch,27,1890,12,13,34,7,85.0,46,35,2,0,0,8.47
+83,Olly Matos,2022-23,Ironport FC,Forward,17,Portuguese,10,640,9,9,24,10,71.0,43,15,5,0,0,6.31
+83,Olly Matos,2023-24,Ironport FC,Forward,17,Portuguese,13,793,25,3,63,35,82.3,18,24,4,0,0,8.48
+84,Hugo Xara,2022-23,Dawnfield Sporting,Midfielder,24,Italian,24,2256,8,9,32,13,85.3,17,49,1,0,0,7.22
+84,Hugo Xara,2023-24,Dawnfield Sporting,Midfielder,24,Italian,27,1809,10,10,25,15,76.8,22,46,0,0,0,7.51
+85,Andre Abreu,2022-23,Northern Dynamo,Midfielder,26,English,20,1460,11,14,21,18,76.9,17,44,4,0,0,7.84
+85,Andre Abreu,2023-24,Northern Dynamo,Midfielder,26,English,12,828,7,5,26,4,76.6,32,53,0,0,0,6.33
+86,Oscar Jorge,2022-23,Red City United,Forward,27,French,24,1944,12,1,30,20,66.6,21,5,0,0,0,5.84
+86,Oscar Jorge,2023-24,Red City United,Forward,27,French,22,1342,13,4,49,22,69.8,42,11,3,0,0,6.93
+87,Kai Ferreira,2022-23,Crestwood Rangers,Goalkeeper,28,Portuguese,17,1513,0,0,0,0,79.2,1,0,2,0,11,6.76
+87,Kai Ferreira,2023-24,Crestwood Rangers,Goalkeeper,28,Portuguese,24,2160,0,0,0,0,72.8,0,7,0,0,18,8.62
+88,Sergio Santos,2022-23,Thornfield United,Defender,29,English,29,2726,3,2,18,0,87.7,2,53,1,0,5,6.85
+88,Sergio Santos,2023-24,Thornfield United,Defender,29,English,11,1001,1,6,8,4,89.8,19,41,5,0,7,6.6
+89,Pedro Duarte,2022-23,Dawnfield Sporting,Goalkeeper,28,Portuguese,29,2407,0,0,0,0,60.0,2,5,1,0,16,8.16
+89,Pedro Duarte,2023-24,Dawnfield Sporting,Goalkeeper,28,Portuguese,8,544,0,0,0,0,73.4,0,7,0,0,11,6.23
+90,Dani Kuhn,2022-23,Ironport FC,Forward,30,Dutch,25,1725,19,9,34,25,80.3,42,25,1,0,0,8.61
+91,Tomas Webb,2022-23,Crestwood Rangers,Midfielder,18,English,25,1525,6,6,25,13,75.6,10,26,3,0,0,6.06
+91,Tomas Webb,2023-24,Crestwood Rangers,Midfielder,18,English,5,340,6,12,21,9,85.8,33,32,3,0,0,7.09
+92,Noah Matos,2022-23,Eastbridge Athletic,Forward,35,German,8,744,19,4,46,26,77.6,18,25,1,0,0,7.29
+92,Noah Matos,2023-24,Eastbridge Athletic,Forward,35,German,37,2775,20,2,54,8,66.4,36,21,1,0,0,7.24
+93,Luca Torres,2022-23,Eastbridge Athletic,Midfielder,34,Argentine,12,744,5,8,17,5,89.8,44,35,5,0,0,6.99
+93,Luca Torres,2023-24,Eastbridge Athletic,Midfielder,34,Argentine,33,2640,6,12,29,16,87.2,33,27,1,0,0,7.99
+94,Phil Moran,2022-23,Albion FC,Midfielder,19,German,36,3060,12,9,12,6,88.6,26,35,1,0,0,7.73
+94,Phil Moran,2023-24,Albion FC,Midfielder,19,German,9,603,9,15,25,17,80.5,14,22,1,0,0,7.26
+95,Carlos Ramos,2022-23,Thornfield United,Defender,33,Nigerian,10,830,1,2,15,8,69.4,19,47,6,0,6,6.1
+95,Carlos Ramos,2023-24,Thornfield United,Defender,33,Nigerian,28,2044,4,5,16,0,87.4,15,44,6,0,8,7.18
+96,Hans Couto,2022-23,Northern Dynamo,Midfielder,24,Argentine,26,1586,10,6,39,11,85.7,29,54,5,1,0,7.32
+96,Hans Couto,2023-24,Northern Dynamo,Midfielder,24,Argentine,5,325,9,10,22,13,79.4,30,21,3,1,0,6.76
+97,Victor Jimenez,2022-23,Ironport FC,Midfielder,26,German,30,2610,10,7,32,17,83.0,49,37,0,0,0,7.95
+97,Victor Jimenez,2023-24,Ironport FC,Midfielder,26,German,14,1232,8,3,37,17,82.1,40,46,5,0,0,6.74
+98,Noah Koch,2022-23,Red City United,Defender,18,Argentine,37,3367,4,1,8,8,79.4,16,73,5,0,3,7.44
+98,Noah Koch,2023-24,Red City United,Defender,18,Argentine,33,2475,1,6,10,7,87.9,13,45,7,0,1,6.44
+99,Hans Ferreira,2022-23,Red City United,Defender,35,Argentine,26,1638,4,6,17,3,80.6,5,56,2,0,6,7.06
+99,Hans Ferreira,2023-24,Red City United,Defender,35,Argentine,30,2400,2,5,9,9,82.6,4,37,4,0,5,6.48
+100,Iker Ricci,2022-23,Ironport FC,Midfielder,25,Brazilian,34,2890,10,6,28,9,75.7,45,25,5,0,0,7.31
+100,Iker Ricci,2023-24,Ironport FC,Midfielder,25,Brazilian,22,1848,9,5,17,6,80.1,20,36,0,0,0,6.33
+101,Renato Herrera,2022-23,Southvale City,Forward,23,French,31,2511,18,10,52,13,83.4,26,14,3,0,0,7.75
+101,Renato Herrera,2023-24,Southvale City,Forward,23,French,11,781,12,5,39,34,83.4,59,15,5,0,0,7.8
+102,Theo Zimmermann,2022-23,Northern Dynamo,Defender,20,French,32,2336,5,5,19,4,80.0,13,75,0,0,0,7.04
+102,Theo Zimmermann,2023-24,Northern Dynamo,Defender,20,French,25,2250,1,4,19,4,87.0,8,54,0,0,10,7.58
+103,Franco Vargas,2022-23,Crestwood Rangers,Forward,37,Brazilian,10,830,22,3,80,34,71.9,17,26,0,0,0,7.86
+103,Franco Vargas,2023-24,Crestwood Rangers,Forward,37,Brazilian,19,1311,14,9,35,30,72.1,36,13,3,0,0,7.71
+104,Xavi Braga,2022-23,Dawnfield Sporting,Goalkeeper,34,Portuguese,14,868,0,0,0,0,68.2,0,8,2,0,8,5.79
+104,Xavi Braga,2023-24,Dawnfield Sporting,Goalkeeper,34,Portuguese,7,630,0,0,0,0,72.7,0,4,2,0,16,7.23
+105,Noel Cruz,2022-23,Southvale City,Forward,29,Spanish,22,2068,24,4,53,34,85.8,58,13,1,0,0,9.5
+105,Noel Cruz,2023-24,Southvale City,Forward,29,Spanish,36,3276,10,6,21,21,78.1,16,28,4,0,0,6.4
+106,Omar Pinto,2022-23,Dawnfield Sporting,Midfielder,27,Portuguese,21,1491,10,11,31,19,92.2,24,36,1,0,0,7.84
+107,Phil Torres,2022-23,Dawnfield Sporting,Midfielder,20,English,30,1920,8,10,14,10,77.2,28,39,4,0,0,7.42
+107,Phil Torres,2023-24,Dawnfield Sporting,Midfielder,20,English,12,1116,8,3,29,7,74.8,16,36,0,0,0,5.54
+108,Pedro Klose,2022-23,Southvale City,Forward,37,English,15,990,16,2,54,9,76.2,38,9,2,0,0,6.51
+108,Pedro Klose,2023-24,Southvale City,Forward,37,English,24,1920,6,6,59,31,82.6,48,21,3,1,0,6.87
+109,Kai Flores,2022-23,Albion FC,Goalkeeper,20,Argentine,22,2090,0,0,0,0,74.2,0,2,2,0,18,8.48
+109,Kai Flores,2023-24,Albion FC,Goalkeeper,20,Argentine,26,2158,0,0,0,0,57.2,2,4,0,0,7,5.95
+110,Kyle Bento,2022-23,Eastbridge Athletic,Forward,26,German,28,2212,11,3,75,21,71.0,41,13,3,0,0,6.59
+110,Kyle Bento,2023-24,Eastbridge Athletic,Forward,26,German,19,1615,20,9,47,13,74.0,55,21,0,1,0,8.45
+111,Bruno Bauer,2022-23,Dawnfield Sporting,Midfielder,21,German,16,1184,1,13,17,17,80.8,37,42,3,0,0,7.54
+111,Bruno Bauer,2023-24,Dawnfield Sporting,Midfielder,21,German,31,2945,10,8,33,12,88.6,14,43,2,0,0,7.29
+112,Max Braga,2023-24,Southvale City,Forward,25,French,11,693,7,11,66,21,70.6,15,28,0,0,0,6.03
+113,Hugo Braga,2022-23,Southvale City,Defender,19,Italian,11,847,4,0,8,5,84.1,12,46,3,0,8,6.59
+114,Kai Sousa,2022-23,Westgate Rovers,Goalkeeper,33,Portuguese,12,1080,0,0,0,0,67.7,2,4,0,0,15,7.18
+115,Cole Sousa,2022-23,Albion FC,Forward,19,Nigerian,25,2025,17,2,58,11,81.6,22,25,3,0,0,6.61
+115,Cole Sousa,2023-24,Albion FC,Forward,19,Nigerian,30,2220,7,9,25,25,77.0,37,23,1,0,0,6.84
+116,Nico Teixeira,2022-23,Thornfield United,Midfielder,32,Dutch,12,888,11,11,21,18,84.2,14,27,2,0,0,7.1
+116,Nico Teixeira,2023-24,Thornfield United,Midfielder,32,Dutch,29,2378,5,9,10,8,86.3,39,32,6,0,0,7.42
+117,Kev Duarte,2022-23,Westgate Rovers,Forward,20,German,18,1440,22,5,28,15,78.8,52,11,2,0,0,8.3
+117,Kev Duarte,2023-24,Westgate Rovers,Forward,20,German,25,1850,15,8,39,37,70.3,20,27,0,0,0,7.76
+118,Phil Guerrero,2022-23,Westgate Rovers,Midfielder,34,Dutch,8,520,4,6,34,6,76.0,41,16,6,0,0,5.98
+118,Phil Guerrero,2023-24,Westgate Rovers,Midfielder,34,Dutch,37,2960,2,15,39,5,85.0,17,43,5,0,0,7.72
+119,Tomas Shah,2022-23,Ironport FC,Forward,33,Argentine,22,1782,12,2,79,10,69.6,36,13,1,1,0,5.99
+119,Tomas Shah,2023-24,Ironport FC,Forward,33,Argentine,9,783,10,6,20,20,75.3,39,11,4,0,0,6.44
+120,Aaron Miranda,2023-24,Eastbridge Athletic,Forward,23,Dutch,7,511,5,3,27,27,80.5,32,17,0,0,0,5.61
